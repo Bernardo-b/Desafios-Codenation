@@ -7,3 +7,5 @@ Para isso, utilizaremos o data set Black Friday disponibilizado originalmente pe
 ## Semana 3 
 Queremos conhecer melhor nossos clientes por estado. Para isso, iniciamos uma análise na pontuação de crédito. Para realizar a verificação inicial, precisamos de alguns valores. Os valores são a média, a mediana, a moda e o desvio padrão da pontuação de crédito.
 
+## Semana 4
+O objetivo deste desafio é explorar as principais funções sobre distribuições de probabilidade como PDF, CDF e quantis e as relações entre duas das principais distribuições: a normal e a binomial.
