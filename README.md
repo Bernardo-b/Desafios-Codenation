@@ -9,3 +9,13 @@ Queremos conhecer melhor nossos clientes por estado. Para isso, iniciamos uma an
 
 ## Semana 4
 O objetivo deste desafio é explorar as principais funções sobre distribuições de probabilidade como PDF, CDF e quantis e as relações entre duas das principais distribuições: a normal e a binomial.
+
+## Semana 5
+O objetivo deste desafio é explorar algumas funções de testes de hipóteses disponíveis em pacotes como o SciPy, aprendendo a interpretar seus resultados, ser crítico sobre seus usos e entender um pouco sobre seus funcionamentos.
+
+Para isso, utilizaremos o data set 2016 Olympics in Rio de Janeiro que consiste de 11 variáveis a respeito de 11538 atletas que participaram das Olimpíadas de 2016 no Rio de Janeiro.
+
+## Semana 6
+O objetivo deste desafio é explorar sobre como funciona o PCA e como podemos obter data sets de dimensões mais baixas através dele.
+
+Para isso, vamos contar com o data set FIFA 2019 que contém originalmente 89 variáveis com diversos atributos de mais de 18 mil jogadores do game FIFA 2019.
