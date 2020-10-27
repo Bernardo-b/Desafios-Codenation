@@ -19,3 +19,14 @@ Para isso, utilizaremos o data set 2016 Olympics in Rio de Janeiro que consiste 
 O objetivo deste desafio é explorar sobre como funciona o PCA e como podemos obter data sets de dimensões mais baixas através dele.
 
 Para isso, vamos contar com o data set FIFA 2019 que contém originalmente 89 variáveis com diversos atributos de mais de 18 mil jogadores do game FIFA 2019.
+
+## Semana 7
+O objetivo deste desafio é adquirir conhecimento e prática nas ferramentas mais usuais de engenharia de variáveis. Com o domínio apropriado das técnicas básicas, como one-hot encoding, normalização e padroniação, o analista está mais bem preparado para conduzir uma etapa de preprocessamento dos dados que traga bons resultados da aplicação dos algoritmos de ML.
+
+Para isso, vamos contar com o data set Countries of the world que contém 20 variáveis, como população, área costeira e tamanho dos setores de produção, de 227 países.
+
+## Semana 8
+Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. Para isso, usará Python, Pandas, Sklearn e Regression.
+
+## Semana 9
+Neste desafio deverá descobrir quais estudantes estão fazendo a prova apenas para treino.
